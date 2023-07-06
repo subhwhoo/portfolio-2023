@@ -2,7 +2,7 @@ import { useRef } from "react";
 import { motion } from "framer-motion";
 
 import Wrapper from "./Wrapper";
-import man from "../assets/man2.png";
+import man from "../assets/man2.webp";
 import externalLinkIcon from "../assets/external-link-icon.png";
 import lk from "../assets/resume.png";
 import { scrollTo } from "../helper";
