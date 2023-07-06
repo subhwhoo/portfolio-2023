@@ -9,17 +9,17 @@ import Achievements from "./Achievements";
 import Div from "./Div";
 
 // IMAGES
-import sk1 from "../assets/sk-1.png";
-import sk2 from "../assets/sk-2.png";
-import sk3 from "../assets/sk-3.png";
-import sk4 from "../assets/sk-4.png";
-import sk5 from "../assets/sk-5.png";
-import sk6 from "../assets/sk-6.png";
-import sk7 from "../assets/sk-7.png";
-import sk8 from "../assets/sk-8.png";
-import sk9 from "../assets/sk-9.png";
-import sk10 from "../assets/sk-10.png";
-import sk11 from "../assets/sk-11.png";
+import sk1 from "../assets/sk-5.png";
+import sk2 from "../assets/sk-4.png";
+import sk3 from "../assets/sk-7.png";
+import sk4 from "../assets/sk-6.png";
+import sk5 from "../assets/sk-8.png";
+import sk6 from "../assets/sk-9.png";
+import sk7 from "../assets/sk-10.png";
+import sk8 from "../assets/sk-11.png";
+import sk9 from "../assets/sk-1.png";
+import sk10 from "../assets/sk-2.png";
+import sk11 from "../assets/sk-3.png";
 import pattern from "../assets/heading-pattern.png";
 import pe1 from "../assets/sec-3-p-e-1.png";
 import pe2 from "../assets/sec-3-p-e-2.png";
@@ -66,40 +66,41 @@ const Skills = () => {
                         <Service
                             num="1"
                             title="Ui/Ux Design"
-                            desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+                            desc="Passionate about UI/UX design, I strive to create visually appealing and user-centric experiences. With expertise in design software and a keen eye for detail, I bring ideas to life through thoughtful research and prototyping. Collaborating with cross-functional teams, I ensure designs meet user needs and business goals."
                             data={[
-                                "Prototype",
-                                "Wireframe",
+                                "User Inteface",
                                 "User Experience",
-                                "Prototype",
+                                "Figma",
+                                "Wireframe",
                                 "Prototype",
                             ]}
                         />
                         <Service
                             num="2"
-                            title="Graphic Designing"
-                            desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+                            title="Frontend Development"
+                            desc="A frontend developer skilled in HTML, CSS, JavaScript, React, and Vite. With a focus on creating interactive and user-friendly interfaces, I am dedicated to delivering high-quality code and seamless user experiences."
                             data={[
-                                "Prototype",
-                                "Wireframe",
-                                "User Experience",
-                                "Prototype",
-                                "Prototype",
+                                "HTML",
+                                "CSS",
+                                "Javascript",
+                                "React",
+                                "Vite",
                             ]}
                         />
                         <Service
                             num="3"
-                            title="Frontend Development"
-                            desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+                            title="Graphic Designing"
+                            desc="A passionate graphics designer. With a keen eye for detail and a creative mindset, I specialize in creating visually striking designs. Proficient in industry-standard software, I bring ideas to life through compelling visual elements. Committed to delivering high-quality work, I strive to exceed client expectations and leave a lasting impression with my designs."
                             data={[
-                                "Prototype",
+                                "Photoshop",
+                                "Illustrator",
                                 "Wireframe",
-                                "User Experience",
-                                "Prototype",
-                                "Prototype",
+                                "Canva",
+                                "After Effects",
                             ]}
                         />
-                        <Service
+                        
+                        {/* <Service
                             num="4"
                             title="Wordpress Development"
                             desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
@@ -110,7 +111,7 @@ const Skills = () => {
                                 "Prototype",
                                 "Prototype",
                             ]}
-                        />
+                        /> */}
                     </div>
                     {/* SERVICES END */}
 
@@ -126,13 +127,13 @@ const Skills = () => {
                             />
                         </span>
                         <span className="flex items-center gap-4">
-                            Good{" "}
+                            Beautiful{" "}
                             <img
                                 src={pattern}
                                 className="hidden md:block md:w-[140px] 2xl:w-[190px] mt-3"
                             />
                         </span>
-                        <span>Services</span>
+                        <span>Designs</span>
                     </div>
                     {/* SECTION HEADING END */}
                 </div>

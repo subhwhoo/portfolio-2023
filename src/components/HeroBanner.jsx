@@ -2,9 +2,9 @@ import { useRef } from "react";
 import { motion } from "framer-motion";
 
 import Wrapper from "./Wrapper";
-import man from "../assets/man.png";
+import man from "../assets/man2.png";
 import externalLinkIcon from "../assets/external-link-icon.png";
-import gmailIcon from "../assets/email-icon.png";
+import lk from "../assets/resume.png";
 import { scrollTo } from "../helper";
 import { useFollowPointer } from "./useFollowPointer";
 
@@ -40,10 +40,12 @@ const HeroBanner = () => {
                 >
                     <div className="flex items-center gap-[6px]">
                         <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
-                            <img src={gmailIcon} alt="" className="w-[18px]" />
+                            <img src={lk} alt="" className="w-[18px]" />
                         </div>
-                        <div>jsdev@gmail.com</div>
+                        <a href="src/assets/Subham2023Resume.pdf"><div>Resume/Subham</div></a>
+                        
                     </div>
+                    
                     <ul className="flex 2xl:text-[20px]">
                         <li
                             className="cursor-pointer px-5 py-2 hover:bg-slate-900 transition active:scale-90 rounded-lg"
@@ -81,7 +83,7 @@ const HeroBanner = () => {
                     transition={{ duration: 0.5 }}
                 >
                     <h1 className="text-[50px] md:text-[120px] 2xl:text-[189px] leading-[50px] md:leading-[125px]  2xl:leading-[192px] font-oswald uppercase">
-                        I Am A Creative
+                        I Am A User Experience 
                         <br className="invisible md:visible" />
                         Designer
                     </h1>
@@ -97,13 +99,10 @@ const HeroBanner = () => {
                 >
                     <div className="font-light mb-4">
                         👋 Hi, I Am{" "}
-                        <span className="font-semibold">John Doe</span>
+                        <span className="font-semibold">Subham Chowdhury</span>
                     </div>
-                    <div className="max-w-[510px]">
-                        I create and maintain modern websites and applications.
-                        I solve all your business problems. Lorem Ipsum is
-                        simply dummy text of the printing and typesetting
-                        industry.
+                    <div className="max-w-[510px]">                      
+                        I am Subham, a final-year engineering student at Chandigarh University. With over 2 years of experience in UI/UX design, I specialize in creating visually appealing and user-friendly interfaces.
                     </div>
                 </motion.div>
                 {/* INTRO END */}
@@ -117,7 +116,7 @@ const HeroBanner = () => {
                 >
                     {/* START */}
                     <div className="flex items-center gap-3">
-                        <div className="text-[80px] font-light">80+</div>
+                        <div className="text-[80px] font-light">20+</div>
                         <div className="leading-[22px]">
                             SUCCESSFULLY
                             <br />
@@ -130,7 +129,7 @@ const HeroBanner = () => {
 
                     {/* START */}
                     <div className="flex items-center gap-3">
-                        <div className="text-[80px] font-light">15+</div>
+                        <div className="text-[80px] font-light">2+</div>
                         <div className="leading-[22px]">
                             YEARS OF
                             <br />

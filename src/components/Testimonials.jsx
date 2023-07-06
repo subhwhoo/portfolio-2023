@@ -37,8 +37,7 @@ const Testimonials = () => {
                         Client Says
                     </div>
                     <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
-                        Lorem Ipsum is simply dummy text of the printing and
-                        typesetting industry.
+                    Highlighting successful collaborations with clients, delivering impactful designs and user-centric solutions that exceed expectations.
                     </div>
                 </Div>
                 {/* SECTION HEADING END */}
@@ -50,23 +49,16 @@ const Testimonials = () => {
                         <div className="text-black flex items-center flex-col px-[25px] md:px-[50px] py-[50px]">
                             <div className="mb-[25px]">
                                 <img
-                                    src="https://i.pravatar.cc/300"
+                                    src="src/assets/Rajesh.png"
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
-                                <div className="font-bold">John Doy</div>
+                                <div className="font-bold">Rajesh Verma</div>
                                 <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
                                     Client
                                 </div>
                             </div>
                             <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut
-                                enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in
-                                reprehenderit in voluptate velit esse cillum
-                                dolore eu fugiat nulla pariatur.
+                            I had the pleasure of working with Subham Chowdhury on a UI/UX project, and I must say his expertise and creativity exceeded my expectations. He truly understands user behavior and crafted a visually stunning and user-friendly design. I highly recommend his services.
                             </div>
                         </div>
                         {/* SLIDE END */}
@@ -74,23 +66,16 @@ const Testimonials = () => {
                         <div className="text-black flex items-center flex-col px-[25px] md:px-[50px] py-[50px]">
                             <div className="mb-[25px]">
                                 <img
-                                    src="https://i.pravatar.cc/300"
+                                    src="src/assets/Priya.png"
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
-                                <div className="font-bold">John Doy</div>
+                                <div className="font-bold">Priya Gupta</div>
                                 <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
                                     Client
                                 </div>
                             </div>
                             <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut
-                                enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in
-                                reprehenderit in voluptate velit esse cillum
-                                dolore eu fugiat nulla pariatur.
+                            Subham Chowdhury is an exceptional UI/UX designer. His attention to detail and ability to translate our vision into a captivating design was remarkable. Working with him was a delight, and I am extremely satisfied with the outcome of our project.
                             </div>
                         </div>
                         {/* SLIDE END */}
@@ -98,23 +83,16 @@ const Testimonials = () => {
                         <div className="text-black flex items-center flex-col px-[25px] md:px-[50px] py-[50px]">
                             <div className="mb-[25px]">
                                 <img
-                                    src="https://i.pravatar.cc/300"
+                                    src="src/assets/Rohit.png"
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
-                                <div className="font-bold">John Doy</div>
+                                <div className="font-bold">Rohit Singhania</div>
                                 <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
                                     Client
                                 </div>
                             </div>
                             <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut
-                                enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in
-                                reprehenderit in voluptate velit esse cillum
-                                dolore eu fugiat nulla pariatur.
+                            I had the privilege of collaborating with Subham Chowdhury for a web design project. His proficiency in HTML, CSS, and JavaScript, coupled with his design skills, resulted in a visually impressive and responsive website. I am grateful for his talent and professionalism.
                             </div>
                         </div>
                         {/* SLIDE END */}
