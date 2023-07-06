@@ -49,7 +49,7 @@ const Testimonials = () => {
                         <div className="text-black flex items-center flex-col px-[25px] md:px-[50px] py-[50px]">
                             <div className="mb-[25px]">
                                 <img
-                                    src="src/assets/Rajesh.png"
+                                    src="https://cdn-icons-png.flaticon.com/512/8090/8090406.png"
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
                                 <div className="font-bold">Rajesh Verma</div>
@@ -66,7 +66,7 @@ const Testimonials = () => {
                         <div className="text-black flex items-center flex-col px-[25px] md:px-[50px] py-[50px]">
                             <div className="mb-[25px]">
                                 <img
-                                    src="src/assets/Priya.png"
+                                    src="https://icon-library.com/images/avatar-icon/avatar-icon-8.jpg"
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
                                 <div className="font-bold">Priya Gupta</div>
@@ -83,7 +83,7 @@ const Testimonials = () => {
                         <div className="text-black flex items-center flex-col px-[25px] md:px-[50px] py-[50px]">
                             <div className="mb-[25px]">
                                 <img
-                                    src="src/assets/Rohit.png"
+                                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyKsVv8iDGr6Q3LF9tIdyY_dOi79dqJKjIw&usqp=CAU"
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
                                 <div className="font-bold">Rohit Singhania</div>
