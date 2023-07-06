@@ -1,9 +1,9 @@
 import p7 from "./assets/TravelWebsite.webp";
 import p8 from './assets/SP1.webp'
-import p9 from './assets/FD1.png'
-import p10 from './assets/StocksApp.png'
-import p11 from './assets/ExcerciseApp.png'
-import p12 from './assets/FoodDeliveryApp.png'
+import p9 from './assets/fd1.webp'
+import p10 from './assets/stocksapp.webp'
+import p11 from './assets/excerciseapp.webp'
+import p12 from './assets/fooddeliveryapp.webp'
 import p13 from './assets/CreditSide.webp'
 import p14 from './assets/PatilKaki.webp'
 
