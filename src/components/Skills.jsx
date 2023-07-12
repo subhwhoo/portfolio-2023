@@ -82,6 +82,7 @@ const Skills = () => {
                             data={[
                                 "HTML",
                                 "CSS",
+                                "Tailwind",
                                 "Javascript",
                                 "React",
                                 "Vite",
